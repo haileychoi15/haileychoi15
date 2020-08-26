@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 🙌🏻
 
 <!--
-**haileychoi15/haileychoi15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**haileychoi15/haileychoi15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profileㅑ
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Hailey from South Korea ! 
+
+- I've just graduated from Hankuk University of Foreign Studies 👩🏻‍🎓
+- I'm currently studying to be an awesome __front-end developer__ 💖
+- I'm looking to learn TypeScript and React tutorial (very soon !! 🚀)
+- Languages and Tools : HTML, CSS, JavaScript, JAVA, Oracle, Git, Eclipse, IntelliJ
+- Recent project : 🔗 [Ticket24](https://github.com/haileychoi15/ticket24-booking)
+- How to reach me : 📩 imdud0612@gmail.com 
